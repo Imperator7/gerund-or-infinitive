@@ -130,4 +130,24 @@ const infinitiveVerbs = [
   'yearn',
 ]
 
+const bothUsableVerbs = [
+  'begin',
+  "can't bear",
+  "can't stand",
+  'continue',
+  'hate',
+  'like',
+  'love',
+  'prefer',
+  'propose',
+  'start',
+  'forget',
+  'go on',
+  'quit',
+  'regret',
+  'remember',
+  'stop',
+  'try',
+]
+
 export const verbs = [gerundVerbs, infinitiveVerbs]
