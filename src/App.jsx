@@ -1,8 +1,13 @@
 import { useState } from 'react'
 import './App.css'
+import Game from './components/game'
 
 function App() {
-  return <>hello</>
+  return (
+    <div>
+      <Game />
+    </div>
+  )
 }
 
 export default App
