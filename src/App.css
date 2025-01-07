@@ -51,3 +51,9 @@ body {
   cursor: pointer;
   transition: background 0.3s ease;
 }
+
+.scoreBoard {
+  font-size: 2rem;
+  justify-self: center;
+  margin: 1rem;
+}
